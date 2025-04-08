@@ -1,6 +1,6 @@
 # minicurso &lt;div&gt;a 2.0 🌸
 
-Esse repositório é destinado à segunda edição do minicurso oferecido pelo <div>a para a turma intermediária.
+Esse repositório é destinado à segunda edição do minicurso oferecido pelo &lt;div&gt;a para a turma intermediária.
 
 ## ⋆ pré-requisitos
 
