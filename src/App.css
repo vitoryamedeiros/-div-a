@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
 
 .app {
   text-align: center;
@@ -10,19 +10,24 @@
 }
 
 .header {
-  background-color: #fff5fa;
-  min-height: 100vh;
+  background-color: #ffb5b5;
+  height: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .title {
-  font-size: 2rem;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 900;
+  font-size: calc(10px + 2vmin);
   color: #ff6ba8;
+  font-size: 2rem;
+  font-family: "Ms Madi", sans-serif;
+  font-weight: 900;
+}
+
+.content{
+  display: flex;
+  gap: 20px;
+  padding: 10px;
 }
